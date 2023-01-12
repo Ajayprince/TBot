@@ -1,0 +1,1 @@
+API_KEY = 'Your Telegram Bot Token to access the HTTP API'
